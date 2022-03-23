@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusyControl", "BusyControl\BusyControl.csproj", "{ACE2B4BE-FFC0-49CC-9A3B-3E8C3EF5DAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusyControlTest", "BusyControlTest\BusyControlTest.csproj", "{C03A0D2F-2320-416A-9E8A-883C4FC3B101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE2B4BE-FFC0-49CC-9A3B-3E8C3EF5DAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE2B4BE-FFC0-49CC-9A3B-3E8C3EF5DAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE2B4BE-FFC0-49CC-9A3B-3E8C3EF5DAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE2B4BE-FFC0-49CC-9A3B-3E8C3EF5DAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03A0D2F-2320-416A-9E8A-883C4FC3B101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03A0D2F-2320-416A-9E8A-883C4FC3B101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03A0D2F-2320-416A-9E8A-883C4FC3B101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03A0D2F-2320-416A-9E8A-883C4FC3B101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1F0EF4-1FC4-41DB-A38C-4F2BAE0D76ED}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/d-spectcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BusyControl\\BusyControl.csproj
+		SccProjectName1 = BusyControl
+		SccLocalPath1 = BusyControl
+		SccProjectUniqueName2 = BusyControlTest\\BusyControlTest.csproj
+		SccProjectName2 = BusyControlTest
+		SccLocalPath2 = BusyControlTest
+	EndGlobalSection
+EndGlobal
